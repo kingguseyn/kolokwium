@@ -1,0 +1,4 @@
+git status jest poleceniem w systemie kontroli wersji Git, 
+które służy do wyświetlania informacji na temat bieżącego 
+stanu repozytorium. Polecenie git status informuje o różnicach 
+między bieżącym stanem repozytorium a ostatnim zatwierdzonym commit'em.
