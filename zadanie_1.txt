@@ -7,4 +7,4 @@ aby inni członkowie zespołu mogli zobaczyć i pobrać te zmiany.
 Polecenie "git status" jest używane w systemie kontroli wersji 
 Git do sprawdzania bieżącego stanu repozytorium. Po wykonaniu 
 tego polecenia Git pokaże informacje o różnicach między lokalnym 
-repozytorium a aktualnym stanem gałęzi.
+repozytorium a aktualnym stanem gałęzi..
